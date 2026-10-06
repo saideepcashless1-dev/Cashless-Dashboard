@@ -1,0 +1,8 @@
+{
+  "name": "Cashless Communication Dashboard",
+  "description": "Hospital preauthorization and cashless insurance claims operations platform with real-time status tracking, automated document verification, end-to-end encrypted WhatsApp/SMS patient updates, and customizable workflow masters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
